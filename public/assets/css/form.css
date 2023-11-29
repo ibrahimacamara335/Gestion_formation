@@ -1,0 +1,61 @@
+.contact-form{
+  background: dodgerblue;
+  max-width: 350px;
+  margin: auto;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+input[type=text], select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button[type=submit]{
+  background: royalblue;
+  color: white;
+  padding: 14px 20px;
+  margin: auto;
+  border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.retour{
+  background: grey;
+    color: white;
+    padding: 14px 20px;
+    margin: auto;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.card-body{
+  background: dodgerblue;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.liste-formation{
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+
+}
+
+.liste-apprenant{
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+
+}
